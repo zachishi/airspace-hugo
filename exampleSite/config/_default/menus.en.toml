@@ -23,7 +23,11 @@ name = "Contact"
 url = "contact/"
 weight = 7
 [[main]]
-name = "Calendar"
+name = "Events"
+url = ""
+weight = ""
+[[main]]
+name = ""
 url = ""
 weight = ""
 [[main]]
@@ -31,26 +35,21 @@ name = "Home"
 url = ""
 weight = 1
 [[main]]
-name = "About"
-url = "about/"
-weight = 2
-[[main]]
-name = "Project"
-url = "project/"
-weight = 3
+name = "Calendar"
+url = ""
+weight = ""
 [[main]]
 name = "Private Lessons"
 url = ""
 weight = ""
 [[main]]
+name = "About"
+url = "about/"
+weight = 2
+[[main]]
 name = "Blog"
 url = "blog/"
 weight = 4
-[[main]]
-name = "Service"
-parent = "More"
-url = "service/"
-weight = 1
 [[main]]
 name = "FAQ"
 parent = "More"
