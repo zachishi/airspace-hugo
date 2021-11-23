@@ -39,11 +39,6 @@ name = "Blog"
 url = "blog/"
 weight = "1"
 [[main]]
-name = "FAQ"
-parent = "More"
-url = "faq/"
-weight = 3
-[[main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = "1"
