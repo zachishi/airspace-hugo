@@ -58,6 +58,10 @@ google = ""
 [widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[social]]
+icon = ""
+link = "https://www.youtube.com/channel/UCgkmfe98z65EWMVvOSv_lzA/featured"
+title = "Youtube"
+[[social]]
 icon = "fab fa-facebook"
 link = "https://www.facebook.com/SeymourBand"
 title = "facebook"
