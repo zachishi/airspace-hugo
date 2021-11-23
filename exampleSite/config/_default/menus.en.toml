@@ -33,7 +33,7 @@ weight = "5"
 [[main]]
 name = "Band Boosters"
 url = ""
-weight = "1"
+weight = "6"
 [[main]]
 name = "Blog"
 url = "blog/"
