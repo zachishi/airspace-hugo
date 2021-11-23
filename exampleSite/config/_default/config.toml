@@ -1,5 +1,5 @@
 baseURL = "https://shsband-test.netlify.com"
-disableLanguages = ["gen", "fs"]
+disableLanguages = ["Fr"]
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
 hasCJKLanguage = false
