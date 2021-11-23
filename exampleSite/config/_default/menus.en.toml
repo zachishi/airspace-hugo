@@ -21,7 +21,7 @@ weight = "2"
 [[main]]
 name = "Private Lessons"
 url = ""
-weight = "1"
+weight = "3"
 [[main]]
 name = "About"
 url = "about/"
