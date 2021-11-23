@@ -59,7 +59,7 @@ google = ""
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[social]]
 icon = "fab fa-facebook"
-link = "#"
+link = "https://www.facebook.com/SeymourBand"
 title = "facebook"
 [[social]]
 icon = "fab fa-twitter"
