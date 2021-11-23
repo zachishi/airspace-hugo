@@ -29,7 +29,7 @@ weight = "1"
 [[main]]
 name = "Events"
 url = ""
-weight = ""
+weight = "1"
 [[main]]
 name = "Band Boosters"
 url = ""
