@@ -1,4 +1,4 @@
-baseURL = "https://band-test.netlify.com"
+baseURL = "https://shsband-test.netlify.com"
 disableLanguages = []
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
