@@ -23,14 +23,6 @@ name = "Contact"
 url = "contact/"
 weight = 7
 [[main]]
-name = "Events"
-url = ""
-weight = ""
-[[main]]
-name = "Band Boosters"
-url = ""
-weight = ""
-[[main]]
 name = "Home"
 url = ""
 weight = 1
@@ -46,6 +38,14 @@ weight = ""
 name = "About"
 url = "about/"
 weight = 2
+[[main]]
+name = "Events"
+url = ""
+weight = ""
+[[main]]
+name = "Band Boosters"
+url = ""
+weight = ""
 [[main]]
 name = "Blog"
 url = "blog/"
