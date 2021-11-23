@@ -11,21 +11,13 @@ name = "Contact"
 url = "contact/"
 weight = 7
 [[main]]
+name = "Contact"
+url = "contact/"
+weight = "8"
+[[main]]
 name = "Merch"
 url = ""
 weight = ""
-[[main]]
-name = "Home"
-url = ""
-weight = 1
-[[main]]
-name = "Calendar"
-url = ""
-weight = "2"
-[[main]]
-name = "Private Lessons"
-url = ""
-weight = "3"
 [[main]]
 name = "About"
 url = "about/"
@@ -39,10 +31,14 @@ name = "Band Boosters"
 url = ""
 weight = "6"
 [[main]]
-name = "Blog"
-url = "blog/"
-weight = "7"
+name = "Private Lessons"
+url = ""
+weight = "3"
 [[main]]
-name = "Contact"
-url = "contact/"
-weight = "8"
+name = "Calendar"
+url = ""
+weight = "2"
+[[main]]
+name = "Home"
+url = ""
+weight = 1
