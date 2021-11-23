@@ -11,6 +11,10 @@ name = "Contact"
 url = "contact/"
 weight = 7
 [[main]]
+name = "Merch"
+url = ""
+weight = ""
+[[main]]
 name = "Home"
 url = ""
 weight = 1
